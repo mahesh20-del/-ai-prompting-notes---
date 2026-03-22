@@ -39,6 +39,5 @@ An AI answering as a "Junior Copywriter" provides different vocabulary and struc
 • Non-Technical: Write an Instagram summary about AI in 2026 and its impact. Make it professional and avoid buzzwords.  
 • Technical (identity & boundary):Act as a brand strategist ghostwriter with 10 years of experience creating an Instagram Summary of 100 words. The subject is about ai in 2026 and its impact. Highlight our brand by focusing on skills, values, and potential contributions. Avoid buzzwords like 'passionate' or 'hardworking.' Keep the tone professional and forward-looking."
 [[AI Prompt Phase two 🏗]]
-[[Exported image 20260321020927-0.png]]
-[[Exported image 20260321020921-0.png]]
+
 
