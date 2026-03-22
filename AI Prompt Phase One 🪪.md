@@ -26,7 +26,7 @@ P (Persona): Who are you? (Expert, Mentor, Critic).It Defines who the AI should 
 R (Result): What exactly do I want? (A blog, a list, a table).- Define what the AI should produce (e.g.,(for ghostwriter) “create a 100‑word Instagram Summary/(for career consultant)list of tools you must know for data analysis”).  
 C (Context/Constraints): What is the background? What are the limits? It provides the subject matter or background (e.g., (for ghostwriter)“AI in 2026 and its impact, highlighting our brand’s skills, values, and contributions/(for career consultant)A student who just finished a Python course but has no work experience yet.”).  
 E (Execution): Any specific formatting or style? It State the constraints or style requirements.(e.g., (for ghostwriter)“avoid buzzwords, keep tone professional and forward‑looking/(for career consultant)no buzzwords like "passionate" or "hardworking."”).
-![PRCE Diagram](images/prce.png)  
+![PRCE Diagram](IMAGES/prce.png)  
 **4.completion of phase 1:**  
 now let's look out our example and complete it
  
